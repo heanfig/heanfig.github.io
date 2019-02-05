@@ -3,6 +3,7 @@ layout: post
 title: Curso Javascript (ES5) desde 0 VIA FB LIVE
 ---
 
+
 Seguramente quieres empezar a aprender JavaScript pero te asuste ... en este mini curso gratuito veremos un preambulo respecto al fabuloso lenguaje que se esta comiendo el mundo ...
 
 ![enki](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
