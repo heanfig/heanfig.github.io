@@ -39,3 +39,5 @@ Las fechas provistas para la conferencia son:
 ## - Quien será el conferencista
 
  Andres Figueroa (github.com/heanfig)
+ 
+ te esperamos.. 
