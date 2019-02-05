@@ -3,8 +3,6 @@ layout: post
 title: Enki - El entrenamiento diario de 5 minutos para tus habilidades dev.
 ---
 
-![enki](https://i.imgur.com/h2i2jZY.jpg)
-
 Enki es una aplicación que te ayudará a reforzar lenguajes de programación cada día con ejercicios. Una solución para evitar olvidar otros lenguajes.
 
 ![enki](https://i.imgur.com/h2i2jZY.jpg)
