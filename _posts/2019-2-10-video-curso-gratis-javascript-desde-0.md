@@ -17,11 +17,15 @@ Seguramente quieres empezar a aprender JavaScript pero te asuste ... en este min
 Las fechas provistas para la conferencia son:
  
 **Tema** Introducción a tecnologías web #1
+
 **Fecha y hora** 05 de febrero del 2019 **22.00 COL - 23.00 COL**
+
 **Lugar** Facebook Live
 
 **Tema** ES5 - primer acercamiento #1
+
 **Fecha y hora** 06 de febrero del 2019  **22.00 COL - 23.00 COL**
+
 **Lugar** Facebook Live
 
 **Pronto tendremos mas..😋**
